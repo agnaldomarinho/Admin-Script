@@ -1,4 +1,6 @@
-script-bash
+Bash-Script
 ===========
 
-*criandoswap.sh, cria 
+Este Repositorio contém varios script utilizado por min diaramente.
+
+ 
